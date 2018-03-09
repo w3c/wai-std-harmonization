@@ -2,5 +2,5 @@
 
 Current Preview:
 
-https://w3c.github.io/wai-std-harmonization/
+https://w3c.github.io/wai-std-harmonization/standards-guidelines/harmonization/
 
