@@ -1,7 +1,6 @@
 ---
 title: Why Standards Harmonization is Essential to Web Accessibility
 permalink: /standards-guidelines/harmonization/
-redirect_from: /
 layout: default
 ---
 
