@@ -94,14 +94,14 @@ The [World Wide Web Consortium](http://www.w3.org/) (W3C) [Web
 Accessibility Initiative](http://www.w3.org/WAI/) (WAI) has developed:
 
 -   [Web Content Accessibility Guidelines
-    (WCAG)](http://www.w3.org/WAI/intro/wcag.php), which describe how to
+    (WCAG)]({{ "/standards-guidelines/wcag/" | relative_url }}), which describe how to
     make Web content and Web sites accessible;
 -   [Authoring Tool Accessibility Guidelines
-    (ATAG)](http://www.w3.org/WAI/intro/atag), which describe how to
+    (ATAG)](({{ "/standards-guidelines/atag/" | relative_url }}), which describe how to
     make Web authoring tools that produce content conforming to WCAG and
     that are accessible for people with disabilities;
 -   [User Agent Accessibility Guidelines
-    (UAAG)](http://www.w3.org/WAI/intro/uaag), which describe how to
+    (UAAG)](({{ "/standards-guidelines/uaag/" | relative_url }}), which describe how to
     make browsers and media players accessible, and how to ensure their
     interoperability with assistive technologies.
 
