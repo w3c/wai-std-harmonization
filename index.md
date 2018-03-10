@@ -97,11 +97,11 @@ Accessibility Initiative](http://www.w3.org/WAI/) (WAI) has developed:
     (WCAG)]({{ "/standards-guidelines/wcag/" | relative_url }}), which describe how to
     make Web content and Web sites accessible;
 -   [Authoring Tool Accessibility Guidelines
-    (ATAG)](({{ "/standards-guidelines/atag/" | relative_url }}), which describe how to
+    (ATAG)]({{ "/standards-guidelines/atag/" | relative_url }}), which describe how to
     make Web authoring tools that produce content conforming to WCAG and
     that are accessible for people with disabilities;
 -   [User Agent Accessibility Guidelines
-    (UAAG)](({{ "/standards-guidelines/uaag/" | relative_url }}), which describe how to
+    (UAAG)]({{ "/standards-guidelines/uaag/" | relative_url }}), which describe how to
     make browsers and media players accessible, and how to ensure their
     interoperability with assistive technologies.
 
