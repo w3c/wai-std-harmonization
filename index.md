@@ -2,6 +2,8 @@
 title: Why Standards Harmonization is Essential to Web Accessibility
 permalink: /standards-guidelines/harmonization/
 layout: default
+github:
+  repository: w3c/wai-std-harmonization
 ---
 
 {::options toc_levels="2" /}
