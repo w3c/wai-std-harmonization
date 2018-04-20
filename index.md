@@ -6,20 +6,9 @@ github:
   repository: w3c/wai-std-harmonization
 ---
 
-{::options toc_levels="2" /}
-
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" %}
+{% include box.html type="start" h="2" title="Abstract" class="full" %}
 {:/}
-
--   TOC is created automatically.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
-## Abstract
 
 This document explains the key role that harmonization of standards
 plays in increasing the accessibility of the Web for people with
@@ -43,6 +32,24 @@ fragmentation in the area of Web accessibility standards, and examines
 the impact of harmonization and fragmentation on Web developers, tool
 developers, and organizations. It also suggests action steps for
 promoting Web accessibility standards harmonization.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+
+{::options toc_levels="2" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
 
 ## Overview
 
