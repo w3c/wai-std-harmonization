@@ -4,6 +4,11 @@ permalink: /standards-guidelines/harmonization/
 layout: default
 github:
   repository: w3c/wai-std-harmonization
+footer: >
+  <p><strong>Date:</strong> Updated October 2002 (minor updates in November 2011 to account for WCAG 2.0 publication; otherwise, not edited). An <a href="http://www.w3.org/WAI/EO/Drafts/standards/standards_harmon">incomplete, unapproved draft update</a> of this document is available.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Brewer">Judy Brewer</a>.  Contributors:  <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from <a href="http://www.w3.org/WAI/TIES/"><acronym title="Web Accessibility Initiative: Training, Implementation, Education, Support">WAI-TIES</acronym></a>, a project of the European Commission <acronym title="Information Society Technologies">IST</acronym> Programme.</p>
+  
 ---
 
 {::nomarkdown}
