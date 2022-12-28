@@ -66,8 +66,8 @@ for accessibility of:**
 -   browsers and media players
 -   authoring tools
 
-Around the world there is currently **fragmentation** – **conflicting**, divergent technical
-standards** – rather than harmonization of Web accessibility standards.
+Around the world there is currently **fragmentation** – conflicting, divergent technical
+standards – rather than harmonization of Web accessibility standards.
 While W3C's Web Content Accessibility Guidelines (WCAG) is the most
 broadly adopted Web accessibility standard internationally, many
 countries have developed or are in the process of developing their own
